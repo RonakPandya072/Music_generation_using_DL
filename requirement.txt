@@ -1,0 +1,5 @@
+music21
+midi2audio
+
+*************
+upload sound-font file Dramam Piano.sf2 while calling FluidSynth function from midi2audio for converting .mid to .mp3
