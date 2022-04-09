@@ -12,12 +12,6 @@ Problem statement is to generate melody using deep learning. for that RNN and pe
 - [@Amit]
 
 ## Introduction
-साहित्यसङ्गीतकलाविहीनः साक्षात्पशुः पुच्छविषाणहीनः। 
-
-तृणं न खादन्नपि जीवमानः तद्भागधेयं परमं पशूनाम्॥
-
-A person destitute of literature, music or the arts is as good as an animal without a trail or horns. It is the good fortunes of the animals that he doesn't eat grass like them. (From Bhartuhari Nitishatakam Sloka 12)
-
 Music is one of the most widely used signal streams. However, the cost and difficulty of tune creation is increasing, and increasingly humans are beginning to like the tune of small crowds, with the intention to motive tune not able to satisfy humans' needs.
 
 Music technology the use of deep learning techniques has been a subject of interest for the past decades. Music proves to be a unique venture as compared to images, among three essential dimensions: Firstly, song is temporal, with a hierarchical structure with dependencies throughout time. Secondly, music includes more than one instruments which are interdependent and spread throughout time. Thirdly, song is grouped into chords, arpeggios and melodies — for this reason every time-step may also have more than one outputs. However, audio statistics has numerous properties that cause them to acquainted in a few methods to what's conventionally studied in deep learning (computer vision and natural language processing, or NLP). The sequential nature of the music reminds us of NLP, which we will use Recurrent Neural Networks for. There also are more than one ‘channels’ of audio (in phrases of tones, and gadgets), which are paying homage to images that Convolutional Neural Networks may be used for. Additionally, deep generative fashions are interesting new areas of research, with the ability to create practical artificial data. Some examples are Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs), in addition to language models in NLP.
